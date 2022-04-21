@@ -26,18 +26,14 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TME_BOT_SUPPORT_CHAT)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TME_BOT_SUPPORT_CHANEL)
 
 ------
 ## Deploy 🚀
 - [![Heroku](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
 
-- [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
-
 - [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
-
-
 
 ------
 ## Deploy To Heroku
