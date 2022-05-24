@@ -9,7 +9,7 @@ _HELLBOT_MAIN() {
     $(_python_ 'from git import Repo
 import sys
 
-_UPSTREAM_ = "https://github.com/The-Hellbot/HellBot"
+_UPSTREAM_ = "https://github.com/Captainamarica/Hell-bot-Sl-navanjana"
 _BRANCH_ = "master"
 
 repo = Repo.init()
@@ -45,7 +45,7 @@ repo.heads[_BRANCH_].checkout(True) ')
 _starter () {
     local hellpath
     hellpath="Plugins.zip"
-    echo "••• DOWNLOADING HELLBOT •••"
+    echo "••• DOWNLOADING RAVANA BOT •••"
     wget -q $(_hell_zip) -O "$hellpath"
     HELLPATH=$(zipinfo -1 "$hellpath" | grep -v "/.");
     unzip -qq "$hellpath"
@@ -54,7 +54,7 @@ _starter () {
     cd $HELLPATH
     # _HELLBOT_PLUG
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    echo "••• STARTING HELLBOT •••"
+    echo "••• STARTING RAVANA BOT •••"
     python3 -m hellbot
 }
 
