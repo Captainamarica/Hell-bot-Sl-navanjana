@@ -1,5 +1,5 @@
 ========================
-HellBot Version Update
+Ravana Version Update
 ========================
 
 +-------------------------+
@@ -44,14 +44,14 @@ Changelog 📃 :
 * **Updated  HellBot Startup & Core.**
 
 +------------------------------------------------------------------------------------------------------------------------------------------+
-| Now HellBot supports multi clients at it's fullest. Will add more database based command in multi clients soon with updates. Stay tuned! |
+| Now Ravana supports multi clients at it's fullest. Will add more database based command in multi clients soon with updates. Stay tuned! |
 +------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/56>`_
 =====================================================================================
 
-:Regards: * `@ForGo10God <https://t.me/forgo10god>`_
+:Regards: * `@NA_VA_N_JA_NA1 <https://t.me/NA_VA_N_JA_NA1>`_
 
-By ~ `Hêllẞø† Network { 🇮🇳 } <https://t.me/hellbot_network>`_
+By ~ `Ravana Network { 🇮🇳 } <https://t.me/NightVission>`_
 =================================================
