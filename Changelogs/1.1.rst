@@ -25,14 +25,14 @@ Changelog 📃 :
 * Fixed pm permit. Note that pmpermit only works for 1st/main client.
 * Fixed force install plugins.
 * Improved instagram downloader plugin.
-* Now you can deploy HellBot on railway again. A step by step guide is added to notes in `hellbot chat <https://t.me/hellbot_chat>`_.
+* Now you can deploy HellBot on railway again. A step by step guide is added to notes in `Night Vission Bots <https://t.me/NightVission>`_.
 
 +-------------------------------------------------------------------------------------------------------------+
 | Currently deploying on heroku is stopped. I would recommend to deploy on railway or qovery for time being.  |
 +-------------------------------------------------------------------------------------------------------------+
 
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/54>`_
+Report Bugs and Suggestions in comments of `this post <https://t.me/NightVission>`_
 =====================================================================================
 
-:Regards: `@ForGo10God <https://t.me/forgo10god>`_
+:Regards: `@NA_VA_N_JA_NA1 <https://t.me/NA_VA_N_JA_NA1>`_
