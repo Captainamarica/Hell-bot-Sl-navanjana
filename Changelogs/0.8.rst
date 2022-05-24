@@ -31,6 +31,6 @@ Changelog 📃 :
 Report Bugs and Suggestions in comments of `this post <https://t.me/NightVission>`_
 =====================================================================================
 
-**📌 To update your Hêllẞø† do** ``.update build``
+**📌 To update your Ravana do** ``.update build``
 
 :Regards: `@NA_VA_N_JA_NA1 <https://t.me/NA_VA_N_JA_NA1>`_
