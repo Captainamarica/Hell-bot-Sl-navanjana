@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇱🇰</b>
+  <b>RAVANA BOT 🇱🇰</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/d606c6cfafc241cdeeedb.jpg" alt="The-HellBot">
+  <img src="https://telegra.ph/file/9c71b73da433a000e7035.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
@@ -63,7 +63,7 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your HellBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
+- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@MasterHacker2/HellBot)
 
 
 ------
