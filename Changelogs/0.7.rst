@@ -1,5 +1,5 @@
 ========================
-HellBot Version Update
+Ravana Version Update
 ========================
 
 +-------------------------+
@@ -22,9 +22,9 @@ Changelog 📃 :
 * Problem in climate plugin was due to API. So no need for fixes. Now it's working fine. [Got a comment on this]
 * Bugs fixes and improved performance.
 
-Report Bugs and Suggestions in comments of `this post <https://t.me/its_hellbot/40>`_
+Report Bugs and Suggestions in comments of `this post <https://t.me/NightVission>`_
 =====================================================================================
 
 **📌 To update your Hêllẞø† do** ``.update build``
 
-:Regards: `@ForGo10God <https://t.me/forgo10god>`_
+:Regards: `@NA_VA_N_JA_NA1 <https://t.me/NA_VA_N_JA_NA1>`_
