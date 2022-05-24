@@ -1,5 +1,5 @@
 ========================
-HellBot Version Update
+Ravana Version Update
 ========================
 
 +-------------------------+
@@ -19,7 +19,7 @@ Changelog :
 * Updated ``.logs`` command. Now logs get pasted to a paste bin.
 * Working on Extra Modules Support. Will push in next update.
 
-Now I'll try to give update more frequently. I was busy these past few days. 😕
+Now I'll try to give update more frequently. I was busy these past few days. 
 ===============================================================================
 
-📌 To update your Hêllẞø† do ``.update build``
+📌 To update your Ravana do ``.update build``
